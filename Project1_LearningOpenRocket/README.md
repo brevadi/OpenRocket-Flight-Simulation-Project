@@ -1,6 +1,7 @@
 # Learning the application
   - Installing the Application
   - Making a simple rocket and seeing how the application works
+  - The inner tube is where the motor is mounted | 
 
 # Components of a rocket
   - Nose cone 
@@ -31,6 +32,10 @@
         ** plus: 0 cm
       * Fin rotation: 0
       * Fillet radius: 0.635 cm
+  - Inner Tube
+      * ignition at: Launch
+      * Cluster: 3
+      * Tube separation: 1 cm
                 
 # Materials used
   - Nose cone
