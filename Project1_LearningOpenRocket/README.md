@@ -34,8 +34,9 @@
       * Fillet radius: 0.635 cm
   - Inner Tube
       * ignition at: Launch
-      * Cluster: 3
-      * Tube separation: 1 cm
+      * Cluster: 1
+      * Tube separation: 0
+      * 
                 
 # Materials used
   - Nose cone
@@ -48,3 +49,9 @@
       * Component Material: Balsa (0.17 g/cm^3)
       * Component finish: Regular paint (60 μm)
       * Fillet Material: Cardboard (0.68 g/cm^3)
+   
+# Motor specs
+  - Configuration: HP-H195NT
+  - Ejection charge delay: 10 // (creates a pressure in the body tube that ejects the nose cone and the recovery system                                       from the front of the rocket)
+  - Motor type: Single-use
+  - Launch mass: 197 g | Empty mass: 82 g
