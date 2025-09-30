@@ -40,6 +40,12 @@
       * Length: 22 cm
       * Outer Diameter: 3.5 cm
       * Inner Diameter: 2.9 cm // needs to be the same as the motor's diameter
+
+    - Bulkhead
+      * Thickness: 0.318 cm
+      * Diameter: 7.22 cm
+      * Position: Bottom of the parent component
+          ** plus: 10.2 cm // (it needs to be at the end of the nose cone)
                 
 # Materials used
   - Nose cone
@@ -53,8 +59,7 @@
       * Component finish: Regular paint (60 μm)
       * Fillet Material: Cardboard (0.68 g/cm^3)
   - Bulkhead
-      * Thickness: 0.318 cm
-      * Diameter: 7.22 cm   
+      * Component Material: Basswood (0.5 g/cm^3)
    
 # Motor specs
   - Configuration: HP-H195NT
